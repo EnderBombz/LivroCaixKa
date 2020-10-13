@@ -12,7 +12,7 @@ class Item {
         this.total = total;
     }
 }
-
+//teste
 class Lista { 
     constructor(produto,quantidade,valor){
         this.produto = produto;
