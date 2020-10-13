@@ -22,7 +22,7 @@ class Lista {
 }
 
 export default () => {
-
+    //teste
     const Card = []
     const item = new Item()
 
