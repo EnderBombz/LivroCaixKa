@@ -20,7 +20,7 @@ class Lista {
         this.valor = valor;
     }
 }
-
+//teste 23
 export default () => {
     //teste
     const Card = []
