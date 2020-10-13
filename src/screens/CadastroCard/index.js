@@ -12,17 +12,17 @@ class Item {
         this.total = total;
     }
 }
-//teste
+
 class Lista { 
     constructor(produto,quantidade,valor){
         this.produto = produto;
         this.quantidade = quantidade;
-        this.valor = valor;
+        this.valor = valor;''
     }
 }
-//teste 23
+
 export default () => {
-    //teste
+  
     const Card = []
     const item = new Item()
 
