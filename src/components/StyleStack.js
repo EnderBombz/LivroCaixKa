@@ -17,3 +17,16 @@ justify-content:center;
 
 }
 `
+
+export const InputArea2 = Styled.View `
+padding:15px;
+margin-top:10px;
+
+}
+`
+
+export const ScrollViewLista = Styled.ScrollView `
+padding:15px;
+border-radius: 5px; 
+margin:12px;
+`
